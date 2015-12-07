@@ -64,6 +64,7 @@ Format: `![Alt Text](url)`
 ![Example](/img/cq5dam.thumbnail.319.319.png)
 ![Example](http://www.kinomania.ru/images/posters/154766.jpg)
 
+
 ![Example](http://bestfotoposter.ru/downloads/priroda/more/6000%D1%854285-96dpi-foto-oblaka-nad-morem.jpg)
 
 
