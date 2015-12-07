@@ -62,7 +62,7 @@ Format: `![Alt Text](url)`
   **Example:** 
 ![Image](https://octodex.github.com/images/yaktocat.png)
 ![Example](/img/cq5dam.thumbnail.319.319.png)
-![Example](http://www.cruzo.net/user/images/k/d760fbd8f50d9b92dc054ee8390df166_617.jpg)
+![Example](http://tpwd.texas.gov/state-parks/big-bend-ranch/gallery/Big-Bend-Ranch-Camping-_U8E2700.jpg)
 ***Code blocks:***
 
   **Example:** 
