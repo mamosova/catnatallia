@@ -6,4 +6,4 @@ tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
 
 You can use relative links:
 
--[Relative link](example.md)
+- [Relative link](example.md)
