@@ -1,6 +1,6 @@
 ---
 title: 22tags
-description:desc
+description: desc
 tags: tutorial:product/sapHana
 ---
 tags is empty
