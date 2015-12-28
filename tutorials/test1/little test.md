@@ -1,6 +1,6 @@
 ---
 title: my little test
 description: qqqqqqqqqqqqqqqqqqq
-tags: 123, tutorial:product/sapHana
+tags: [123, tutorial:product/sapHana]
 ---
 qqqqqqqqqqqqqqq
