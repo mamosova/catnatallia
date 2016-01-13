@@ -1,7 +1,7 @@
 ---
 title: 32132131
 description: 21212
-tags: [products:tech/73554900100700000996, products:tech/67838200100800004076, tutorial:technology/sql, products:tech/73554900100700000996/67837800100800004901]
+tags: [ products:tech/73554900100700000996, products:tech/67838200100800004076, tutorial:technology/sql, products:tech/73554900100700000996/67837800100800004901]
 ---
 илилолоилои 6456464
 лдтодоьжльожл 366
