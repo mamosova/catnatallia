@@ -1,5 +1,5 @@
 ---
-title: 22tags
+title: 22tagsq
 description: desc
 tags: [tutorial:product/sapHana]
 ---
