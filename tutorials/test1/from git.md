@@ -1,7 +1,7 @@
 ---
 title: from git
 description: from git
-tags: [tutorial:product/sapHana, 1213, 56565]
+tags: [tutorial:product/sapHana, solutions:lob_92]
 ---
 from git
 
