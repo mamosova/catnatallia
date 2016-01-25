@@ -9,3 +9,4 @@ link_new1
 * http://tutdsfsdf1.by
 * http://tut7364.by
 * http://mail.ru
+* http://kjgfjhkjdgf.by
