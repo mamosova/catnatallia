@@ -7,3 +7,5 @@ link_new
 
  * <http://tut.by>
  * <http://tutdsfsdf.by>
+ * <http://tut7364.by>
+ * <http://mail.ru>
