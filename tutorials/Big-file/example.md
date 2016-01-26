@@ -121,6 +121,7 @@ function fancyAlert(arg) {
 function fancyAlert(arg) {
   if(arg) {
   20 line
+  21 line
 ```
 ***Task Lists*** (Please note, this requires empty line before task list):
 
