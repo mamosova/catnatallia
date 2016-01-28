@@ -1,6 +1,6 @@
 ---
 title: symbol
-description: symbol \n symbol
+description: symbol \r symbol
 tags: [tutorial:product/hana_studio, tutorial:product/sapHana]
 ---
 symbol
