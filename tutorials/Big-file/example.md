@@ -99,6 +99,15 @@ Format: `![Alt Text](url)`
   exit;
 ```
 
+```js
+ quit;
+ !@#$%^&*&*(*(()_++|"}?><>??*&^%#!~~~~@33123-090=|"]?>{}|\\
+  require 'redcarpet'
+  markdown = Redcarpet.new("Hello World!")
+  puts markdown.to_html
+  exit;
+```
+
   **Example:** 
 ```javascript
 quit;
