@@ -90,7 +90,7 @@ Format: `![Alt Text](url)`
 
 ***Code blocks:***
 
-```ruby
+```javascript
  quit;
  !@#$%^&*&*(*(()_++|"}?><>??*&^%#!~~~~@33123-090=|"]?>{}|\\
   require 'redcarpet'
