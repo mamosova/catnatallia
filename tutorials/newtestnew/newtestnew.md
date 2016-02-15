@@ -1,5 +1,5 @@
 ---
-title: newtestnew 
+title:  
 description: newtestnew
 tags: [tutorial:technology/sql, jhfdjhfd, gggggggg]
 ---
