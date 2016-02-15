@@ -1,7 +1,8 @@
 ---
 title:  newqwerty
 description: newqwerty
-tags: [jhfdjhfd, gggggggg]
+tags: [tutorial:technology/amazon_aws]
 ---
 
 newqwerty
+# gfhgfhjf
