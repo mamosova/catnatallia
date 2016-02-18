@@ -1,7 +1,7 @@
 ---
 title: author3
 description: author1
-tags: [uyhuhkjk, tutorial:product/hana_studio, tutorial:product/sapHana, products:analytics,products:analytics/73554900100700000648/01200314690800000637/01200314690900001215, tutorial:interest/sap_cal, gghjh]
+tags: [uyhuhkjk, gghjh]
 ---
 author1
 hgfjhsdgfjhdsgfjh
