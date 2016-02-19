@@ -336,27 +336,7 @@ function fancyAlert(arg) {
   }
 }
 function fancyAlert(arg) {
-  if(arg) {
-  200 line
-  quit;
-function fancyAlert(arg) { function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) {function fancyAlert(arg) { 
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-function fancyAlert(arg) {
-  if(arg) {
-  220 line
+  if(arg) {199
 ```
 ***Task Lists*** (Please note, this requires empty line before task list):
 
