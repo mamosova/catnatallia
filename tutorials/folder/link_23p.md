@@ -1,7 +1,7 @@
 ---
 title: link_23p
 description: link_23p
-tags: [tutorial>hana-studio, tutorial>sapHana]
+tags: [tutorial>hana_studio, tutorial>sapHana]
 ---
 link_23p
 
