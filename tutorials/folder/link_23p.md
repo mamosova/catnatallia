@@ -1,7 +1,7 @@
 ---
 title: link_23p
 description: link_23p
-tags: [tutorial>hana_studio, tutorial>Hana]
+tags: [tutorial>hana_studio, tutorial>Hana, agreements>Product Use & Support Terms]
 ---
 link_23p
 
