@@ -1,7 +1,7 @@
 ---
 title: 24 demo
 description: 24 demo
-tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
+tags: [tutorial>hana_studio, tutorial>Hana, agreements>Product-Use-&-Support-Terms, products>project-"Sentinel"]
 ---
 You can use:
 
