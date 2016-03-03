@@ -5,3 +5,4 @@ tags: [tutorial:product/hana_studio, tutorial:product/sapHana, agreements>Produc
 ---
 
 name_cmd_zima 1
+update
