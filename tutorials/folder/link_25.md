@@ -1,7 +1,7 @@
 ---
 title: link_25
 description: link_25
-tags: [tutorial:product/hana_studio, tutorial:product/sapHana]
+tags: [tutorial:interest/gettingstarted, tutorial:interest/cloud, tutorial:product/hcp, tutorial:technology/java]
 ---
 link_25
 
