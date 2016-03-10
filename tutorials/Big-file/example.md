@@ -95,7 +95,7 @@ Format: `![Alt Text](url)`
 
 ***Code blocks:***
 
-```xml
+```markup
  quit;
  !@#$%^&*&*(*(()_++|"}?><>??*&^%#!~~~~@33123-090=|"]?>{}|\\
   require 'redcarpet'
