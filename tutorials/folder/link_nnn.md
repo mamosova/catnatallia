@@ -10,3 +10,5 @@ link_nnn
 * http://vgr.by
 * http://sv3.by
 * http://4444444444444444444.by
+* http://zzzzzzzzzzzzzzzzz.ru
+* http://hgfhgfhghh.ry/hfhghjjknhkj/jhgjhgjhgjhgjj
