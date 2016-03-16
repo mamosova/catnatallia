@@ -15,4 +15,4 @@ link_nnn
 * http://x44444444444x.com
 * http://bb88888888888888888888.com
 * http://00000000000000000.by
-* http://mmmmmmmmmmmmmmmmmmmmm.ru
+* http://@#$%^*&&(*&(*&(**&(.ru
