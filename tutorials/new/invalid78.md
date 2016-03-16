@@ -1,7 +1,7 @@
 ---
 title: invalid78
-description: 
-tags: [tutorial:product/hana_studio, tutorial:product/sapHana]
+description: invalid78
+tags: 
 ---
 
 jnsdjnvk,s dsdddddd dddddddddddd
