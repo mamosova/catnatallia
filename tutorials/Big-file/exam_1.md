@@ -59,7 +59,7 @@ In this tutorial you will learn how to add authenication and authorization to yo
     </security-role>
     </web-app>
 ```
-
+ 
     ![](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-java-weatherapp-part3/e2e_03-1.png)
  
 2. After successful authentication the application can access users’ principal information using standard servlet APIs. To illustrate that, make the following changes to the **HelloWorldServlet**:
