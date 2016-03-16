@@ -58,7 +58,7 @@ In this tutorial you will learn how to add authenication and authorization to yo
     <role-name>Everyone</role-name>
     </security-role>
     </web-app>
-    ```
+```
 
     ![](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-java-weatherapp-part3/e2e_03-1.png)
  
