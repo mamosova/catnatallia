@@ -22,7 +22,7 @@ In this tutorial you will learn how to add authenication and authorization to yo
 
 1. In order to activate authentication and establish authorization we have to apply the respective security settings in the **web.xml** configuration file. The full **web.xml** contents are below:
 
-```markup
+    ```markup
     <?xml version="1.0" encoding="UTF-8"?>
     <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
     <display-name>cloud-weatherapp</display-name>
@@ -58,7 +58,7 @@ In this tutorial you will learn how to add authenication and authorization to yo
     <role-name>Everyone</role-name>
     </security-role>
     </web-app>
-```
+    ```
  
     ![](https://raw.githubusercontent.com/SAPDocuments/Tutorials/master/tutorials/hcp-java-weatherapp-part3/e2e_03-1.png)
  
