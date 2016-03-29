@@ -4,8 +4,6 @@ description: example
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
 ---
 
-update1
-
 ```markup
     <?xml version="1.0" encoding="UTF-8"?>
     <web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
@@ -43,14 +41,6 @@ update1
     </security-role>
     </web-app>
 ```
-
-321
-nnnnnnnnnn
-ddddddddddddddd
-zzzzzzzzzzzz
-898
-00 Update file 66666
-update 12
 
 You can use:
 
