@@ -30,7 +30,7 @@ Each Trial HANA instance comes with the HANA Web-based Development Workbench. Th
 Login to the [HANA Cloud Cockpit](https://account.hanatrial.ondemand.com/cockpit) with your free developer edition account.
 Choose Databases & Schemas. You will need to create your new instance, to do this simple give it a name, enable web access and of course give a password. This password you will need to remember as it is the password for your SYSTEM user and how you will be able to access the server.
 
-![1.png](1.png)
+![1.png](mob1-1.1.png)
 
 Once you begin the creation process, you will be redirected to an events tab.
 
