@@ -44,7 +44,7 @@ The data source URL is <http://services.odata.org/V2/Northwind/Northwind.svc/>
     `WebIDESystem`   | `Northwind_Data`
     `WebIDEUsage`    | `odata_gen`
 
-    ![mob1-1_3.png](/tutorials/create-destination/mob1-1_3.png)
+    ![mob1-1_3.png](mob1-1_3.png)
  
 4. Click **Save**.
 
