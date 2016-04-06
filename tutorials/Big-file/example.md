@@ -181,18 +181,21 @@ In the words of Abraham Lincoln:
 ***There are three different types of messages: Note, Caution and Warning.***
 
 >### Warning
->This is a Warning. <http://tut.by>
+>>### Warning
+>>>### Warning
+>>>>### Warning
+>>>>This is a Warning. 
 
 &nbsp;
 
 >### Caution
->This is a Caution. <http://tut.by>
+>This is a Caution. 
 
 &nbsp;
 
 >### Note
 
->This is a note. <http://tut.by>
+>This is a note. 
 
 &nbsp;
 
