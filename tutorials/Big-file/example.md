@@ -4,7 +4,7 @@ description: example
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
 ---
 
-qwerty12345
+update
 
 ```markup
     <?xml version="1.0" encoding="UTF-8"?>
