@@ -31,7 +31,7 @@ one
 2. Two 
  two
 3. Three
-```js
+```markup
 quit;
 !@#$%^&*&*(*(()_++|"}?><>??*&^%#!~~~~@33123-090=|"]?>{}|\\
  require 'redcarpet'
