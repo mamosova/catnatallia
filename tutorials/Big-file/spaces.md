@@ -31,6 +31,15 @@ one
 2. Two 
  two
 3. Three
+```js
+quit;
+!@#$%^&*&*(*(()_++|"}?><>??*&^%#!~~~~@33123-090=|"]?>{}|\\
+ require 'redcarpet'
+ markdown = Redcarpet.new("Hello World!")
+ puts markdown.to_html
+ exit;
+```
+4. Four
 
 Sometimes you want bullet points:
 
