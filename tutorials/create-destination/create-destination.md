@@ -41,7 +41,6 @@ Field Name     | Value
 `WebIDEUsage`    | `odata_gen`
 
 ![mob1-1_3.png](mob1-1_3.png)
-
 4. Click **Save**.
 
 ## Next Step:
