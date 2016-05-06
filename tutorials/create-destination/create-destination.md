@@ -31,12 +31,15 @@ Description    | `Northwind OData Service`
 URL            | `http://services.odata.org`
 Proxy Type     | `Internet`
 Authentication | `NoAuthentication`
+
 Add three **Additional Properties** fields by clicking on the **New Property** button once for each property.
+
 Field Name     | Value
 :------------- | :-------------
 `WebIDEEnabled`  | `true`
 `WebIDESystem`   | `Northwind_Data`
 `WebIDEUsage`    | `odata_gen`
+
 ![mob1-1_3.png](mob1-1_3.png)
 4. Click **Save**.
 
