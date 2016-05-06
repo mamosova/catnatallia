@@ -18,15 +18,10 @@ The data source URL is <http://services.odata.org/V2/Northwind/Northwind.svc/>
 ### Procedure
 
 1. Go to <https://account.hanatrial.ondemand.com> and log in to your HCP cockpit.
-
 ![mob1-1_1.png] (mob1-1_1.png)
-  
 2. Select the **Destinations** tab on the left side, and then click on **New Destination…** to open a new destination configuration form.
-
 ![mob1.png](mob1-1_2.png)
-
 3. Enter/confirm all fields in the Destination configuration section with the information below.
-
 Field Name     | Value
 :------------- | :-------------
 Name           | `Northwind`
@@ -35,17 +30,13 @@ Description    | `Northwind OData Service`
 URL            | `http://services.odata.org`
 Proxy Type     | `Internet`
 Authentication | `NoAuthentication`
-
 Add three **Additional Properties** fields by clicking on the **New Property** button once for each property.
-
 Field Name     | Value
 :------------- | :-------------
 `WebIDEEnabled`  | `true`
 `WebIDESystem`   | `Northwind_Data`
 `WebIDEUsage`    | `odata_gen`
-
 ![mob1-1_3.png](mob1-1_3.png)
- 
 4. Click **Save**.
 
 ## Next Step:
