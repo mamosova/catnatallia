@@ -13,24 +13,24 @@ It's very easy to make some words **bold** and other words *italic* and ***bold 
 
  You can use ~~strikethrough~~ font
 
-***Headers***
+     ***Headers***
 
   **Example:** 
-## This is an h2 header 
-### This is an h3 header
-###### This is an h6 header
+      ## This is an h2 header 
+ ### This is an h3 header
+  ###### This is an h6 header
 
-***Lists***
+ ***Lists***
 
   **Example:** 
   
-Sometimes you want numbered lists:
+ Sometimes you want numbered lists:
 
-1. One
+ 1. One
 one
-2. Two 
+ 2. Two 
  two
-3. Three
+ 3. Three
 ```markup
 quit;
 !@#$%^&*&*(*(()_++|"}?><>??*&^%#!~~~~@33123-090=|"]?>{}|\\
@@ -39,38 +39,38 @@ quit;
  puts markdown.to_html
  exit;
 ```
-4. Four
+ 4. Four
 
-Sometimes you want bullet points:
+ Sometimes you want bullet points:
 
-* Start a line with a star
-* Profit!
+  * Start a line with a star
+ * Profit!
 
-You can create nested lists: 
+ You can create nested lists: 
 
-* item1
+ * item1
     * one_one
     * two
 
 ***Blockquotes***
 
   **Example:** 
-In the words of Abraham Lincoln:
-> Pardon my French
+ In the words of Abraham Lincoln:
+ > Pardon my French
 
-***Links***
+  ***Links***
 
   **Example:** 
 [Primer] [id]:
-[id]: http://tut.by
+ [id]: http://tut.by
 
-<http://tut.by>
+  <http://tut.by>
 
 <address@example.com>
 
-***There are three different types of messages: Note, Caution and Warning.***
+  ***There are three different types of messages: Note, Caution and Warning.***
 
->### Warning
+ >### Warning
 >jhkjhkjhkjhkj
 >>### Warning
  >>>### Warning
@@ -84,9 +84,9 @@ In the words of Abraham Lincoln:
 >>### Caution
 >>This is a Caution. 
 
-&nbsp;
+ &nbsp;
 
->### Note
+ >### Note
 
 >This is a note. 
 
@@ -94,10 +94,10 @@ In the words of Abraham Lincoln:
 
 ***Images*** (all images are stored on GitHub, URLs are rewritten to absolute)
 
-Format: `![Alt Text](url)`
+ Format: `![Alt Text](url)`
 
   **Example:** 
-![Image](https://octodex.github.com/images/yaktocat.png)
+  ![Image](https://octodex.github.com/images/yaktocat.png)
 ![Example](http://www.kinomania.ru/images/posters/154766.jpg)
 
 
