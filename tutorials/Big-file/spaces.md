@@ -26,7 +26,7 @@ It's very easy to make some words **bold** and other words *italic* and ***bold 
   
  Sometimes you want numbered lists:
 
-1. One
+ 1. One
  one
  one
   ![Image](https://octodex.github.com/images/yaktocat.png)
@@ -58,7 +58,7 @@ exit;
 
   **Example:** 
  In the words of Abraham Lincoln:
- > Pardon my French
+> Pardon my French
 
   ***Links***
 
