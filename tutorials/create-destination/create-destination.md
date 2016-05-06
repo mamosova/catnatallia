@@ -25,6 +25,8 @@ The data source URL is <http://services.odata.org/V2/Northwind/Northwind.svc/>
 
  ![mob1.png](mob1-1_2.png)
  
+ ![mob1-1_3.png](mob1-1_3.png)
+ 
 3. Enter/confirm all fields in the Destination configuration section with the information below.
 
  Field Name     | Value
@@ -35,7 +37,9 @@ The data source URL is <http://services.odata.org/V2/Northwind/Northwind.svc/>
  URL            | `http://services.odata.org`
  Proxy Type     | `Internet`
  Authentication | `NoAuthentication`
+ 
  Add three **Additional Properties** fields by clicking on the **New Property** button once for each property.
+ 
  Field Name     | Value
  :------------- | :-------------
  `WebIDEEnabled`  | `true`
