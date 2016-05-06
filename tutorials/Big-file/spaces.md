@@ -4,7 +4,7 @@ description: spases
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
 ---
 
-     You can use:
+   You can use:
 
    ***Text*** (including bold, italic, etc)
 
@@ -13,7 +13,7 @@ It's very easy to make some words **bold** and other words *italic* and ***bold 
 
  You can use ~~strikethrough~~ font
 
-     ***Headers***
+   ***Headers***
 
   **Example:** 
       ## This is an h2 header 
