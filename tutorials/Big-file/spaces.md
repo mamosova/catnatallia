@@ -27,11 +27,15 @@ It's very easy to make some words **bold** and other words *italic* and ***bold 
  Sometimes you want numbered lists:
 
 1. One
+
 one
 one
   ![Image](https://octodex.github.com/images/yaktocat.png)
+  
 2. Two 
+
   two
+  
 3. Three
 ```markup
 quit;
