@@ -35,9 +35,7 @@ The data source URL is <http://services.odata.org/V2/Northwind/Northwind.svc/>
  URL            | `http://services.odata.org`
  Proxy Type     | `Internet`
  Authentication | `NoAuthentication`
-
  Add three **Additional Properties** fields by clicking on the **New Property** button once for each property.
-
  Field Name     | Value
  :------------- | :-------------
  `WebIDEEnabled`  | `true`
