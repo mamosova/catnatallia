@@ -18,6 +18,7 @@ The data source URL is <http://services.odata.org/V2/Northwind/Northwind.svc/>
 ### Procedure
 
 1. Go to <https://account.hanatrial.ondemand.com> and log in to your HCP cockpit.
+
 ![mob1-1_1.png] (mob1-1_1.png)
 2. Select the **Destinations** tab on the left side, and then click on **New Destination…** to open a new destination configuration form.
  ![mob1.png](mob1-1_2.png)
