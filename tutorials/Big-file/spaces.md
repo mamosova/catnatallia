@@ -27,21 +27,21 @@ It's very easy to make some words **bold** and other words *italic* and ***bold 
  Sometimes you want numbered lists:
 
 1. One
- one
+one
 one
   ![Image](https://octodex.github.com/images/yaktocat.png)
- 2. Two 
+2. Two 
   two
- 3. Three
+3. Three
 ```markup
 quit;
 !@#$%^&*&*(*(()_++|"}?><>??*&^%#!~~~~@33123-090=|"]?>{}|\\
- require 'redcarpet'
- markdown = Redcarpet.new("Hello World!")
- puts markdown.to_html
- exit;
- ```
- 4. Four
+require 'redcarpet'
+markdown = Redcarpet.new("Hello World!")
+puts markdown.to_html
+exit;
+```
+4. Four
 
  Sometimes you want bullet points:
 
