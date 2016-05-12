@@ -1,7 +1,7 @@
 ---
 title: spaces
 description: spases
-tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
+tags: [tutorial>product>sap-ui5, tutorial>Java-Connector-API-(JCo), agreements>maintenance-/-support-agreements, tutorial>Servlets-/-JSP, tutorial>product>mobile, language>Serbian---Latin, tutorial:product/sapHana, agreements>Product-Use-&-Support-Terms, products>project-"Sentinel"]
 ---
 1
    You can use:
