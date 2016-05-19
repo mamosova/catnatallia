@@ -1,5 +1,5 @@
 ---
-title: for demo1
+title: for demo
 description: tutorial for demo
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
 ---
