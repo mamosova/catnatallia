@@ -12,7 +12,7 @@ You need a HANA account. Pick one of the following:
 
 ## Next Steps
 [Hello Data! Access your first Data from a native SAP HANA Application using the SAP HANA Web-based Development Workbench](http://go.sap.com/developer/tutorials/hana-data-access-authorizations876.html)
-
+http://go.sap.com/developer/tutorials/hana-data-access-authorizations876.html
 ## Details
 ### You will learn  
 1. How to use the SAP HANA Web-based Development Workbench.
